@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快捷支付</string>
+    <string name="alipay_scan">支付宝扫一扫</string>
+    <string name="alipay_qr">支付宝付款码</string>
+    <string name="wechat_scan">微信扫一扫</string>
+    <string name="scan">扫一扫</string>
+    <string name="qr">付款码</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NotFullActivity" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:windowBackground">@drawable/radius_10_bg</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

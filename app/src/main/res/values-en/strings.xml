@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Pay</string>
+    <string name="alipay_scan">Alipay Scan</string>
+    <string name="alipay_qr">Alipay Code</string>
+    <string name="wechat_scan">WeChat Scan</string>
+    <string name="scan">Scan</string>
+    <string name="qr">Code</string>
+</resources>

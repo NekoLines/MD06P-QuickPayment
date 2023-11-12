@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">クイックペイ</string>
+    <string name="alipay_scan">アリペイスキャン</string>
+    <string name="alipay_qr">アリペイ支払いコード</string>
+    <string name="wechat_scan">WeChatスキャン</string>
+    <string name="scan">スキャン</string>
+    <string name="qr">QRコード</string>
+</resources>
